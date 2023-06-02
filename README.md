@@ -8,13 +8,89 @@ Create via github account
 
 
 ## Step 2: Clone the code repository into local machine
-Clone by the following command on visual studio code - 
+Clone by the following command on visual studio code - PS C:\> git clone https://github.com/flowstarts2020/SaleSpheres.git
 
 
 
 ## Step 3: Create index.js file
+Example of an index.js file which was done via visual studio code
+module.exports.handler = async (event) => {
+  const respose = {
+    "timestamp": Date.now().toString(),
+    "status_code": 200,
+    "body": "body"
+  }
+  console.log(respose)
+  return {
+    statusCode: 200,
+    body: JSON.stringify(
+      {
+        message: "Go Serverless v3.0! Your function executed successfully!",
+        input: respose,
+      },
+      null,
+      2
+    ),
+  };
+};
+
+module.exports.error = async (event) => {
+  const respose = {
+    "timestamp": Date.now().toString(),
+    "status_code": 400,
+    "body": "body error"
+  }
+
+  const err = new Error(respose)
+  
+  return {
+    statusCode: 400,
+    body: JSON.stringify(
+      {
+        message: "error",
+        input: err.message.body,
+      },
+      null,
+      2
+    ),
+  };
+};
+
 ## Step 4: Create serverless.yml
+Example of a serverless.yml file which was done via visual studio code
+
+ salesphere
+service: salesphere
+frameworkVersion: '3'
+
+provider:
+  name: aws
+  runtime: nodejs18.x
+  region: ap-southeast-1
+
+functions:
+  api:
+    handler: index.handler
+    events:
+      - httpApi:
+          path: /
+          method: get
+
+  error:
+    handler: index.error
+    events:
+      - httpApi:
+          path: /error
+          method: get
+
+plugins:
+  - serverless-offline
+
+
 ## Step 5: Deploy and verify that the serverless application is working
+
+
+
 ## Step 6: Test and execute the following commands
 $ npm install
 ```
