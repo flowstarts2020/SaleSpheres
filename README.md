@@ -188,7 +188,8 @@ Click a few times on the orange test box to invoke
 (for both on salesphere-dev-api and SalesSphere-dev-error)
 
 ## Step 11: Check any readings when monitoring the Lambda application
-<img width="950" alt="image" src="https://github.com/flowstarts2020/SaleSpheres/assets/69182919/7c712c84-de40-4beb-b0b2-3eb59d22b04d">
+<img width="737" alt="image" src="https://github.com/flowstarts2020/SaleSpheres/assets/69182919/f002170d-cafd-4ea0-8aae-1afac018fc64">
+
 
 
 <img width="938" alt="image" src="https://github.com/flowstarts2020/SaleSpheres/assets/69182919/2ded59e6-8665-443c-8ade-a3aea91eabe7">
