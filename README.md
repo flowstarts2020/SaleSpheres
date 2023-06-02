@@ -60,7 +60,7 @@ module.exports.error = async (event) => {
 ```
 ## Step 4: Create serverless.yml
 Example of a serverless.yml file which was done via visual studio code
-
+```
  salesphere
 service: salesphere
 frameworkVersion: '3'
@@ -87,7 +87,7 @@ functions:
 
 plugins:
   - serverless-offline
-
+```
 
 ## Step 5: Deploy and verify that the serverless application is working
 Test and execute the following commands
@@ -99,7 +99,7 @@ $ serverless deploy
 ## Step 6: Create CI/CD pipeline with GitHub Actions
 Create main.yml in .github/workflows folder. 
 An example of a main.yml
-
+```
 name: CICD for Serverless Application
 run-name: ${{ github.actor }} is doing CICD for Serverless Application
 
@@ -154,7 +154,7 @@ jobs:
       env:
         AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
         AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-
+```
 
 ## Step 7: Add AWS_ACCESS_KEY_ID and ASW_SECRET_ACCESS_KEY to GitHub Secrets
 Always keep AWS_ACCESS_KEY_ID and ASW_SECRET_ACCESS_KEY in privately. They are not meant to share or let public known for prevention of data breaches and landed to the wrong hands (hackers)
