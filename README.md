@@ -217,6 +217,19 @@ No issue, we have the widgets dasboard created on CloudWatch updating based on s
 
 ![image](https://github.com/flowstarts2020/SaleSpheres/assets/69182919/fc5479d9-b61e-4768-9227-3fee03cc0fbe)
 
+Definition
+Invocations -The number of times that your function code is invoked, including successful invocations and invocations that result in a function error.
+
+Duration - The amount of time that your function code spends processing an event. The billed duration for an invocation is the value of Duration rounded up to the nearest millisecond.
+
+Errors - The number of invocations that result in a function error.
+
+ConcurrentExecutions - The number of function instances that are processing events. If this number reaches your concurrent executions quota for the Region, or the reserved concurrency limit on the function, then Lambda throttles additional invocation requests.
+
+Throttles - The number of invocation requests that are throttled. 
+
+
+
 
 
 
