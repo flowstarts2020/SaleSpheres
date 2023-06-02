@@ -202,6 +202,7 @@ illustrating one screenshot example of a SUM widget on salesphere-dev-api
 
 ## Step 14: Completion on ready to view centralize Dashboard   
 This is the illustration of a detail widget based on SUM and Average hourly on salesphere-dev-api and SalesSphere-dev-error. SALESPHERES DASHBOARD
-<img width="950" alt="image" src="https://github.com/flowstarts2020/SaleSpheres/assets/69182919/178e7d30-f880-4a03-9fed-0bd36e3df256">
+<img width="755" alt="image" src="https://github.com/flowstarts2020/SaleSpheres/assets/69182919/c56dac80-741c-48ed-9daf-3a47f34f664f">
+
 
 
