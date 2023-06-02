@@ -175,7 +175,8 @@ Confirm all tests passed and without errors
 
 
 ## Step 10: Test many times to Invoke the Lambda application
-<img width="947" alt="image" src="https://github.com/flowstarts2020/SaleSpheres/assets/69182919/f2f2dd6f-4c7d-4bcd-aa2c-ec9fea658d7f">
+<img width="719" alt="image" src="https://github.com/flowstarts2020/SaleSpheres/assets/69182919/33662d3d-8d24-46f1-b301-811640f1f7ff">
+
 
 Go to the test and click 
 
