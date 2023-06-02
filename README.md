@@ -192,7 +192,8 @@ Click a few times on the orange test box to invoke
 
 
 
-<img width="938" alt="image" src="https://github.com/flowstarts2020/SaleSpheres/assets/69182919/2ded59e6-8665-443c-8ade-a3aea91eabe7">
+<img width="955" alt="image" src="https://github.com/flowstarts2020/SaleSpheres/assets/69182919/54834832-ae06-4c4f-a877-97f8a077002a">
+
 
 ## Step 12: Access and login SenseDeep application
 https://www.sensedeep.com/ can be register for free. For this project, we will access as a free account
