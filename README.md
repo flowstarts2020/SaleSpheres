@@ -180,7 +180,8 @@ Confirm all tests passed and without errors
 
 Go to the test and click 
 
-<img width="942" alt="image" src="https://github.com/flowstarts2020/SaleSpheres/assets/69182919/110de353-198f-4ec4-83a2-6843a56ba173">
+<img width="716" alt="image" src="https://github.com/flowstarts2020/SaleSpheres/assets/69182919/0a5f810d-c08c-45eb-a172-37e942359282">
+
 
 Click a few times on the orange test box to invoke 
 
