@@ -13,7 +13,12 @@ $ npm install
 and then deploy with:
 ```
 $ serverless deploy
-```
+## Step 1: Create a code repository in GitHub
+## Step 2: Clone the code repository into local machine
+## Step 3: Create index.js file
+## Step 4: Create serverless.yml
+## Step 5: Deploy and verify that the serverless application is working
+## Step 6: Test and execute the following commands```
 ## Step 7: Create CI/CD pipeline with GitHub Actions
 Create main.yml in .github/workflows folder. 
 ## Step 8: Add AWS_ACCESS_KEY_ID and ASW_SECRET_ACCESS_KEY to GitHub Secrets
