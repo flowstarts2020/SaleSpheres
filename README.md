@@ -209,5 +209,13 @@ illustrating one screenshot example of a SUM widget on salesphere-dev-api
 This is the illustration of a detail widget based on SUM and Average hourly on salesphere-dev-api and SalesSphere-dev-error. SALESPHERES DASHBOARD
 <img width="755" alt="image" src="https://github.com/flowstarts2020/SaleSpheres/assets/69182919/c56dac80-741c-48ed-9daf-3a47f34f664f">
 
+## Other information - FAQ
+What if Sensedeep is not available or outage?
+No issue, we have the widgets dasboard created on CloudWatch updating based on salesphere-dev-api. The overall factors on ConcurrentExecutions, Duration, Errors, Invocations, Throttles and by each factor. We have an overall factors in numbers. Below is an example
+
+![image](https://github.com/flowstarts2020/SaleSpheres/assets/69182919/fc5479d9-b61e-4768-9227-3fee03cc0fbe)
+
+
+
 
 
