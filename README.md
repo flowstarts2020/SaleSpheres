@@ -23,12 +23,14 @@ Commit changes locally and push it to GitHub. Navigate the repo on GitHub, click
 
 ## Step 11: Test many times to Invoke the Lambda application
 <img width="947" alt="image" src="https://github.com/flowstarts2020/SaleSpheres/assets/69182919/f2f2dd6f-4c7d-4bcd-aa2c-ec9fea658d7f">
+
 <img width="942" alt="image" src="https://github.com/flowstarts2020/SaleSpheres/assets/69182919/110de353-198f-4ec4-83a2-6843a56ba173">
 
 (for both on salesphere-dev-api and SalesSphere-dev-error)
 
 ## Step 12: Check any readings when monitoring the Lambda application
 <img width="950" alt="image" src="https://github.com/flowstarts2020/SaleSpheres/assets/69182919/7c712c84-de40-4beb-b0b2-3eb59d22b04d">
+
 <img width="938" alt="image" src="https://github.com/flowstarts2020/SaleSpheres/assets/69182919/2ded59e6-8665-443c-8ade-a3aea91eabe7">
 
 ## Step 13: Access and login SenseDeep application
