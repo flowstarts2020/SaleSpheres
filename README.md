@@ -19,6 +19,8 @@ Create main.yml in .github/workflows folder.
 ## Step 9: Push changes to GitHub to start the workflow
 Commit changes locally and push it to GitHub. Navigate the repo on GitHub, click on the **Actions** tab to see the workflows.
 ## Step 10: Access AWS Console to check the Lambda application
+<img width="929" alt="image" src="https://github.com/flowstarts2020/SaleSpheres/assets/69182919/dba74c5d-a2a1-4d9f-937a-d9bf41634116">
+
 ## Step 11: Test many times to Invoke the Lambda application
 ## Step 12: Check any readings when monitoring the Lambda application
 ## Step 13: Access and login SenseDeep application
