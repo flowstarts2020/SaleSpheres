@@ -18,6 +18,11 @@ Create main.yml in .github/workflows folder.
 ## Step 8: Add AWS_ACCESS_KEY_ID and ASW_SECRET_ACCESS_KEY to GitHub Secrets
 ## Step 9: Push changes to GitHub to start the workflow
 Commit changes locally and push it to GitHub. Navigate the repo on GitHub, click on the **Actions** tab to see the workflows.
+Confirm all tests passed and without errors
+<img width="945" alt="image" src="https://github.com/flowstarts2020/SaleSpheres/assets/69182919/d2b06c16-74ae-4997-92a8-32757c41c9c5">
+
+
+
 ## Step 10: Access AWS Console to check the Lambda application (on salesphere-dev-api and SalesSphere-dev-error)
 <img width="929" alt="image" src="https://github.com/flowstarts2020/SaleSpheres/assets/69182919/dba74c5d-a2a1-4d9f-937a-d9bf41634116">
 
