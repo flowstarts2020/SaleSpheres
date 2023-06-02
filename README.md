@@ -3,7 +3,15 @@ The objective of this repository is to set up a continuous integration and conti
 application.
 
 ## Step 1: Create a code repository in GitHub
+Create via github account 
+<img width="948" alt="image" src="https://github.com/flowstarts2020/SaleSpheres/assets/69182919/d9709a6c-1013-46f7-9fa5-1f703b4abda0">
+
+
 ## Step 2: Clone the code repository into local machine
+Clone by the following command on visual studio code - 
+
+
+
 ## Step 3: Create index.js file
 ## Step 4: Create serverless.yml
 ## Step 5: Deploy and verify that the serverless application is working
