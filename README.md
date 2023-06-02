@@ -35,6 +35,7 @@ Click a few times on the orange test box to invoke
 ## Step 12: Check any readings when monitoring the Lambda application
 <img width="950" alt="image" src="https://github.com/flowstarts2020/SaleSpheres/assets/69182919/7c712c84-de40-4beb-b0b2-3eb59d22b04d">
 
+
 <img width="938" alt="image" src="https://github.com/flowstarts2020/SaleSpheres/assets/69182919/2ded59e6-8665-443c-8ade-a3aea91eabe7">
 
 ## Step 13: Access and login SenseDeep application
