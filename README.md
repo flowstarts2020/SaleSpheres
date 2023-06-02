@@ -196,8 +196,8 @@ Do go to this link https://www.sensedeep.com/doc/kb/starting/setup.html on how t
 
 ## Step 13: Create the widgets of graph views on SUM and Average for the related relevant monitoring Lambda application
 illustrating one screenshot example of a SUM widget on salesphere-dev-api
-<img width="949" alt="image" src="https://github.com/flowstarts2020/SaleSpheres/assets/69182919/72a9ae95-8587-4a95-a85e-7074d849ec03">
 
+<img width="697" alt="image" src="https://github.com/flowstarts2020/SaleSpheres/assets/69182919/2ce1f85b-418c-4441-bdc5-79b5bffe87b6">
 
 
 ## Step 14: Completion on ready to view centralize Dashboard   
