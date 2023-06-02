@@ -23,8 +23,11 @@ Commit changes locally and push it to GitHub. Navigate the repo on GitHub, click
 
 ## Step 11: Test many times to Invoke the Lambda application
 <img width="947" alt="image" src="https://github.com/flowstarts2020/SaleSpheres/assets/69182919/f2f2dd6f-4c7d-4bcd-aa2c-ec9fea658d7f">
+Go to the test button 
 
 <img width="942" alt="image" src="https://github.com/flowstarts2020/SaleSpheres/assets/69182919/110de353-198f-4ec4-83a2-6843a56ba173">
+
+
 
 (for both on salesphere-dev-api and SalesSphere-dev-error)
 
