@@ -15,7 +15,7 @@ Clone by the following command on visual studio code - PS C:\> git clone https:/
 ## Step 3: Create index.js file
 Example of an index.js file which was done via visual studio code
 
-
+```
 module.exports.handler = async (event) => {
   const respose = {
     "timestamp": Date.now().toString(),
@@ -57,7 +57,7 @@ module.exports.error = async (event) => {
     ),
   };
 };
-
+```
 ## Step 4: Create serverless.yml
 Example of a serverless.yml file which was done via visual studio code
 
