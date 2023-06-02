@@ -171,7 +171,8 @@ Confirm all tests passed and without errors
 
 
 ## Step 9: Access AWS Console to check the Lambda application (on salesphere-dev-api and SalesSphere-dev-error)
-<img width="929" alt="image" src="https://github.com/flowstarts2020/SaleSpheres/assets/69182919/dba74c5d-a2a1-4d9f-937a-d9bf41634116">
+<img width="749" alt="image" src="https://github.com/flowstarts2020/SaleSpheres/assets/69182919/61bffb68-74dd-4ed2-963d-8628b5232c8e">
+
 
 ## Step 10: Test many times to Invoke the Lambda application
 <img width="947" alt="image" src="https://github.com/flowstarts2020/SaleSpheres/assets/69182919/f2f2dd6f-4c7d-4bcd-aa2c-ec9fea658d7f">
