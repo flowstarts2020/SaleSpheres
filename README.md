@@ -213,11 +213,13 @@ SALESPHERES DASHBOARD
 
 ## Other information - FAQ
 What if Sensedeep is not available or outage?
+
 No issue, we have the widgets dasboard created on CloudWatch updating based on salesphere-dev-api. The overall factors on ConcurrentExecutions, Duration, Errors, Invocations, Throttles and by each factor. We have an overall factors in numbers. Below is an example
 
 ![image](https://github.com/flowstarts2020/SaleSpheres/assets/69182919/fc5479d9-b61e-4768-9227-3fee03cc0fbe)
 
 Definition
+
 Invocations -The number of times that your function code is invoked, including successful invocations and invocations that result in a function error.
 
 Duration - The amount of time that your function code spends processing an event. The billed duration for an invocation is the value of Duration rounded up to the nearest millisecond.
