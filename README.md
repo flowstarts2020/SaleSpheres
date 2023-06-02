@@ -1,6 +1,5 @@
 ## Objective
-The objective of this repository is to set up a continuous integration and continuous deployment (CI/CD) pipeline for a Node.js application that is deployed on a serverless platform. Next, using a third-party monitoring tool SenseDeep on monitoring the function and health on this serverless
-application.
+The objective of this repository is leverage a Node.js application that is deployed on a serverless platform and developed a centralised application platform bashboard.  This bashboard is using a third-party monitoring tool SenseDeep on monitoring the function and health on this serverless application.
 
 ## Step 1: Create a code repository in GitHub
 Create via github account 
@@ -12,7 +11,7 @@ Clone by the following command on visual studio code - PS C:\> git clone https:/
 
 
 
-## Step 3: Create index.js file
+## Step 3: Using an index.js file
 Example of an index.js file which was done via visual studio code
 
 ```
@@ -58,7 +57,7 @@ module.exports.error = async (event) => {
   };
 };
 ```
-## Step 4: Create serverless.yml
+## Step 4: using a serverless.yml
 Example of a serverless.yml file which was done via visual studio code
 ```
  salesphere
@@ -96,7 +95,7 @@ $ npm install
 and then deploy with:
 ```
 $ serverless deploy
-## Step 6: Create CI/CD pipeline with GitHub Actions
+## Step 6: Run and test with GitHub Actions
 Create main.yml in .github/workflows folder. 
 An example of a main.yml
 ```
