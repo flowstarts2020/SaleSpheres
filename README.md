@@ -16,6 +16,12 @@ $ serverless deploy
 ## Step 7: Create CI/CD pipeline with GitHub Actions
 Create main.yml in .github/workflows folder. 
 ## Step 8: Add AWS_ACCESS_KEY_ID and ASW_SECRET_ACCESS_KEY to GitHub Secrets
+Always keep AWS_ACCESS_KEY_ID and ASW_SECRET_ACCESS_KEY in privately. They are not meant to share or let public known for prevention of data breaches and landed to the wrong hands (hackers)
+
+<img width="937" alt="image" src="https://github.com/flowstarts2020/SaleSpheres/assets/69182919/1988e2c1-64b2-48b7-975d-311a67cfac09">
+
+
+
 ## Step 9: Push changes to GitHub to start the workflow
 Commit changes locally and push it to GitHub. Navigate the repo on GitHub, click on the **Actions** tab to see the workflows.
 Confirm all tests passed and without errors
