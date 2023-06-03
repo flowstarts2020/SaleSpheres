@@ -1,5 +1,5 @@
 ## Objective
-The objective of this repository is leverage a Node.js application that is deployed on a serverless platform and developed a centralised application platform bashboard.  This bashboard is using a third-party monitoring tool SenseDeep on monitoring the function and health on this serverless application.
+The objective of this repository is leverage a Node.js application that is deployed on a serverless platform and developed a centralised application platform dashboard.  This dashboard is using a third-party monitoring tool SenseDeep as well as CloudWatch on monitoring the function and health on this serverless application.
 
 ## Step 1: Create a code repository in GitHub
 Create via github account 
@@ -219,7 +219,7 @@ No issue, we have the widgets dasboard created on CloudWatch updating based on s
 
 ![image](https://github.com/flowstarts2020/SaleSpheres/assets/69182919/fc5479d9-b61e-4768-9227-3fee03cc0fbe)
 
-Definition
+What is each of the Definition means?
 
 Invocations -The number of times that your function code is invoked, including successful invocations and invocations that result in a function error.
 
@@ -231,6 +231,16 @@ ConcurrentExecutions - The number of function instances that are processing even
 
 Throttles - The number of invocation requests that are throttled. 
 
+Would like to get the logs in real-time. How would I access?
+
+You can access on the define Dashboard name saleshere from CloudWatch. Below is an example in real-time found below the widgets
+
+![image](https://github.com/flowstarts2020/SaleSpheres/assets/69182919/e387fe11-7f54-4746-bf20-e9a9d774d3ef)
+
+What is the next plan?
+
+After a period of evaluation, we are glad to propose the positive results updates to our management. Next plan version will be on the area of API Gateway integration
+as well as consideration the enhancement the features on the SenseDeep application.
 
 
 
