@@ -248,9 +248,13 @@ You can access on the define Dashboard name saleshere from CloudWatch. Below is 
 What is the next plan?
 
 After a period of evaluation for a week, we are glad to propose the positive results updates to our management. We are glad the project SaleSpheres version 1.0 ready to launch in production
+
 Next plan of version 2.0 will be on the following,
-a)	Area of API Gateway integration 
+
+a)	Area of API Gateway integration
+
 b)	Consideration the enhancement the features on the SenseDeep application with logs
+
 c)	Monitoring on other services like EC2, DynamoDB
 
 
