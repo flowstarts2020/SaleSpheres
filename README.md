@@ -207,15 +207,23 @@ illustrating one screenshot example of a SUM widget on salesphere-dev-api
 ## Step 14: Completion on ready to view centralize Dashboard   
 This is the illustration of a detail widget based on SUM and Average hourly on salesphere-dev-api and SalesSphere-dev-error. 
 
+SALESPHERES DASHBOARD 
+ 
+![image](https://github.com/flowstarts2020/SaleSpheres/assets/69182919/d3783f67-fb9d-4ba9-8d01-d271536d3ba2)
 
-SALESPHERES DASHBOARD
+ With the capturing in numeric diagram as follow,
+ 
+ ![image](https://github.com/flowstarts2020/SaleSpheres/assets/69182919/26258960-68d8-46d0-b104-fe5552522b95)
 
-<img width="755" alt="image" src="https://github.com/flowstarts2020/SaleSpheres/assets/69182919/c56dac80-741c-48ed-9daf-3a47f34f664f">
+Besides capturing on Sensedeep, we have an overall captured from CloudWatch with metrices and real time logs.
+
+ ![image](https://github.com/flowstarts2020/SaleSpheres/assets/69182919/731f9850-d4f3-4e9d-b38d-de7f701f0a5b)
+
 
 ## Other information - FAQ
 What if Sensedeep is not available or outage?
 
-No issue, we have the widgets dasboard created on CloudWatch updating based on salesphere-dev-api. The overall factors on ConcurrentExecutions, Duration, Errors, Invocations, Throttles and by each factor. We have an overall factors in numbers. Below is an example
+We have the widgets dasboard created on CloudWatch updating based on salesphere-dev-api. The overall factors on ConcurrentExecutions, Duration, Errors, Invocations, Throttles and by each factor. We have an overall factors in numbers. Below is an example
 
 ![image](https://github.com/flowstarts2020/SaleSpheres/assets/69182919/fc5479d9-b61e-4768-9227-3fee03cc0fbe)
 
@@ -239,8 +247,15 @@ You can access on the define Dashboard name saleshere from CloudWatch. Below is 
 
 What is the next plan?
 
-After a period of evaluation, we are glad to propose the positive results updates to our management. Next plan version will be on the area of API Gateway integration
-as well as consideration the enhancement the features on the SenseDeep application.
+After a period of evaluation for a week, we are glad to propose the positive results updates to our management. We are glad the project SaleSpheres version 1.0 ready to launch in production
+Next plan of version 2.0 will be on the following,
+a)	Area of API Gateway integration 
+b)	Consideration the enhancement the features on the SenseDeep application with logs
+c)	Monitoring on other services like EC2, DynamoDB
+
+
+
+
 
 
 
