@@ -2,10 +2,11 @@
 The objective of this repository is leverage a Node.js application that is deployed on a serverless platform and developed a centralised application platform dashboard.  This dashboard is using a third-party monitoring tool SenseDeep as well as CloudWatch on monitoring the function and health on this serverless application.
 
 ## Step 1: Create a code repository in GitHub
-Create via github account 
+Create via github account
+```
 <img width="948" alt="image" src="https://github.com/flowstarts2020/SaleSpheres/assets/69182919/d9709a6c-1013-46f7-9fa5-1f703b4abda0">
 
-
+```
 ## Step 2: Clone the code repository into local machine
 Clone by the following command on visual studio code - PS C:\> git clone https://github.com/flowstarts2020/SaleSpheres.git
 
